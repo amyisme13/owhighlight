@@ -1,0 +1,31 @@
+{
+  "name": "owhighlight",
+  "version": "1.0.0",
+  "description": "Links to my owhighlight google photos albums",
+  "repository": "https://github.com/amyisme13/owhighlight",
+  "author": "Azmi Makarima <amy.azmim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "devDependencies": {
+    "@vue/component-compiler-utils": "^2.1.0",
+    "babel-preset-env": "^1.7.0",
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "eslint-plugin-vue": "^4.7.1",
+    "parcel-bundler": "^1.9.7",
+    "parcel-plugin-vue": "^1.5.0",
+    "prettier": "^1.13.7",
+    "pug": "^2.0.3"
+  },
+  "dependencies": {
+    "semantic-ui-css": "^2.3.3",
+    "semantic-ui-vue": "^0.2.11",
+    "vue": "^2.5.16"
+  }
+}
