@@ -2,225 +2,169 @@ export default [
   {
     name: 'Ana',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/bCXy3oBYxXbLN4kK6',
     active: false,
   },
   {
     name: 'Bastion',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/qbG3cXbfimvC4eLL8',
     active: false,
   },
   {
     name: 'Brigitte',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/hNC8DHtxSyZRSWtN7',
     active: false,
   },
   {
     name: 'D.Va',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/hGpdjjiCa8BDDEPh9',
     active: false,
   },
   {
     name: 'Doomfist',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/767eMV9d9511NCe2A',
     active: false,
   },
   {
     name: 'Genji',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: '#!',
     active: false,
   },
   {
     name: 'Hanzo',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/c9nwa4jLRD1xmVXx9',
     active: false,
   },
   {
     name: 'Junkrat',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/7VGGTZNt5mkfCJ7h9',
     active: false,
   },
   {
     name: 'Lúcio',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/L8fRkrQfoNyy8uLs9',
     active: false,
   },
   {
     name: 'McCree',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/4S9rmq7ogZSvfM188',
     active: false,
   },
   {
     name: 'Mei',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/5CynD7jnyaNHpx7B7',
     active: false,
   },
   {
     name: 'Mercy',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/PUUkYXjb2f15UbaC7',
     active: false,
   },
   {
     name: 'Moira',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/eGbvWwZgeDYKd9838',
     active: false,
   },
   {
     name: 'Orisa',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/7nVpRW7fjVQDPyYa7',
     active: false,
   },
   {
     name: 'Pharah',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/gocaPaLERV9yCv8p8',
     active: false,
   },
   {
     name: 'Reaper',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: '#!',
     active: false,
   },
   {
     name: 'Reinhardt',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/NYb1Zk4xpkEcogDF8',
     active: false,
   },
   {
     name: 'Roadhog',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/Jj4Rv8xTXfFSS51UA',
     active: false,
   },
   {
     name: 'Soldier: 76',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/HKEPS63ZoBbkdRQq8',
     active: false,
   },
   {
     name: 'Sombra',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: '#!',
     active: false,
   },
   {
     name: 'Symmetra',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: '#!',
     active: false,
   },
   {
     name: 'Torbjörn',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: '#!',
     active: false,
   },
   {
     name: 'Tracer',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/uMfrKeaE3mo9i2Q69',
     active: false,
   },
   {
     name: 'Widowmaker',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/rzVJ5sSesYHWioQr5',
     active: false,
   },
   {
     name: 'Winston',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/NnFNPyM8XtY8GsuB7',
     active: false,
   },
   {
     name: 'Wrecking Ball',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: '#!',
     active: false,
   },
   {
     name: 'Zarya',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/wCgxNmRWyfYdfctXA',
     active: false,
   },
   {
     name: 'Zenyatta',
     color: 'red',
-    image:
-      'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
-    url: 'https://semantic-ui-vue.github.io/static/images/wireframes/image.png',
+    url: 'https://photos.app.goo.gl/rND4KRenJwayifWg7',
     active: false,
   },
 ];
