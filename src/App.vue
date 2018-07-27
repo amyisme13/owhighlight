@@ -8,7 +8,7 @@
       :items-per-row="7")
       sui-card.red(
         v-for="hero in heroes",
-        key="hero.name")
+        :key="hero.name")
         sui-dimmer-dimmable(
           @mouseenter.native="hero.active = true"
           @mouseleave.native="hero.active = false")
@@ -36,10 +36,10 @@ export default {
   methods: {
     heroImage(name) {
       const slugName = slugify(name, {
-        remove: /[$*_+~.()'"!\-:@]/g
+        remove: /[$*_+~.()'"!\-:@]/g,
       }).toLowerCase();
       return `https://d1u1mce87gyfbn.cloudfront.net/hero/${slugName}/hero-select-portrait.png`;
     },
-  }
+  },
 };
 </script>
