@@ -12,7 +12,7 @@
         sui-dimmer-dimmable(
           @mouseenter.native="hero.active = true"
           @mouseleave.native="hero.active = false")
-          sui-image(:src="hero.image")
+          sui-image(:src="heroImage(hero.name)")
           sui-dimmer(
             blurring,
             :active="hero.active")
@@ -23,6 +23,7 @@
 </template>
 
 <script>
+import slugify from 'slugify';
 import heroes from './heroes';
 
 export default {
@@ -32,5 +33,13 @@ export default {
       heroes,
     };
   },
+  methods: {
+    heroImage(name) {
+      const slugName = slugify(name, {
+        remove: /[$*_+~.()'"!\-:@]/g
+      }).toLowerCase();
+      return `https://d1u1mce87gyfbn.cloudfront.net/hero/${slugName}/hero-select-portrait.png`;
+    },
+  }
 };
 </script>
