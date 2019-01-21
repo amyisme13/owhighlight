@@ -6,6 +6,12 @@ export default [
     active: false,
   },
   {
+    name: 'Ashe',
+    color: 'red',
+    url: 'https://photos.app.goo.gl/y1wbJkZMmRNuSBU7A',
+    active: false,
+  },
+  {
     name: 'Bastion',
     color: 'red',
     url: 'https://photos.app.goo.gl/qbG3cXbfimvC4eLL8',
@@ -32,7 +38,7 @@ export default [
   {
     name: 'Genji',
     color: 'red',
-    url: '#!',
+    url: 'https://photos.app.goo.gl/qemvJ63rFvjWePQu6',
     active: false,
   },
   {
@@ -92,7 +98,7 @@ export default [
   {
     name: 'Reaper',
     color: 'red',
-    url: '#!',
+    url: 'https://photos.app.goo.gl/8sfoLAD8V6Kg1PuT6',
     active: false,
   },
   {
@@ -122,13 +128,13 @@ export default [
   {
     name: 'Symmetra',
     color: 'red',
-    url: '#!',
+    url: 'https://photos.app.goo.gl/g7D8SycBT5HXv1YG7',
     active: false,
   },
   {
     name: 'Torbjörn',
     color: 'red',
-    url: '#!',
+    url: 'https://photos.app.goo.gl/m1r17mB3yK37GD8X9',
     active: false,
   },
   {
